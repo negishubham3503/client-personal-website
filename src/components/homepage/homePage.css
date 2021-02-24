@@ -1,0 +1,174 @@
+.container-home {
+    
+}
+
+.top-section-home {
+    background-color: #FBDFDF;
+    padding-right: 5rem;
+}
+
+.navbar-home {
+    background-color: #FBDFDF;
+    width: 100%;
+    padding: 2.5rem 5rem 3.5rem 2rem;
+}
+
+.name {
+    font-family: 'Molle', cursive;
+    font-size: 3rem;
+    position: relative;
+    margin-top: 0%;
+    right: 28rem;
+}
+
+.navbar-right {
+    position: absolute;
+    top: 4rem;
+    left: 53.6rem;
+}
+
+.navbar-links-home {
+    margin: 1rem;
+    color: #6F6E74;
+    font-size: 1.1rem;
+}
+
+.developer-image {
+    width: 48rem;
+    position: absolute;
+    right: 5rem;
+    top: 9rem;
+}
+
+.leaf-image {
+    position: relative;
+    top: 13rem;
+    width: 22rem;
+    right: 28.7rem;
+}
+
+.intro {
+    text-align: left;
+    background-color: white;
+    width: 21rem;
+    padding: 1.5rem 3.5rem 1.5rem 3.5rem;
+    position: absolute;
+    top: 14rem;
+    left: 15rem;
+    line-height: 1.8rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.intro-profile-links {
+    margin-top: 2rem;
+}
+
+.profile-link {
+    color: black;
+    border: 1px solid rgb(87, 86, 86);
+    border-radius: 50%;
+    padding: 0.4rem;
+    margin-right: 1rem;
+    display: inline-flex;
+}
+
+.thoughts {
+    font-family: 'Pacifico', cursive;
+    padding: 3rem 7rem 3rem 12rem;
+    position: relative;
+    top: 12rem;
+    font-size: 2.5rem;
+}
+
+.company-logos {
+    margin: 12rem 3rem 5rem 3rem;
+    width: 14rem;
+    height: 8rem;
+}
+
+.bottom-section-home {
+    background-color: #DCEFF5;
+    padding: 7rem 5rem 7rem 8rem;
+    display: flex;
+}
+
+.empty {
+    height: 25rem;
+    width: 25rem;
+    border: 0.5rem solid white;
+    margin-right: 8rem;
+}
+
+.photo {
+    height: 25.5rem;
+    width: 25rem;
+    position: absolute;
+    top: 87rem;
+    left: 6rem;
+}
+
+.resume-download {
+    position: absolute;
+    padding: 1rem 1.2rem;
+    background-color: #6F6E74;
+    border-radius: 0.3rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    top: 115rem;
+    left: 12.3rem;
+}
+
+.resume-download:hover {
+    opacity: 0.8;
+}
+
+.download-icon {
+    margin-bottom: -0.3rem;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+.about-home {
+    color: #6F6E74;
+    text-align: left;
+    width: 45%;
+}
+
+.about-head {
+    font-size: 3rem;
+    margin: 0rem;
+}
+
+.about-desc {
+    line-height: 1.6rem;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.basic-info {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.interest-home {
+    background-color: #DCEFF5;
+    display: block;
+    color: #6F6E74;
+    text-align: left;
+    padding: 5rem 4rem 7rem 12rem;
+}
+
+.interest-icons {
+    border: 2px solid #6F6E74;
+    border-radius: 50%;
+    padding: 1rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+    height: 2rem;
+    width: 2rem;
+    display: inline-flex;
+}
